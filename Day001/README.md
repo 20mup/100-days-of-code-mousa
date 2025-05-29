@@ -1,17 +1,17 @@
 # Day 001 – [Project Name]
 
 ## What I Built
-_A short description of today’s project._
+_Made a band name generator which just took the city you grew up in and pet's name and combined them_
 
 ## What I Learned
-- Point 1
-- Point 2
+- \n is for new line
+- print("Hello " + input("What's your name?")) - this starts with input then prints afterwards
 
 ## Hardest Part
-_What was most challenging today?_
+_Nothing challenging today_
 
 ## Extra Challenges or Features
-_Optional: Did you add anything extra or plan something for later?_
+_N/A_
 
 ## Reflection
-_How did you feel about today’s session? What do you want to improve or revisit?_
+_Simple refresher_
