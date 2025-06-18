@@ -1,17 +1,17 @@
-# Day002 – [Project Name]
+# Day 002 â€“ [Project Name]
 
 ## What I Built
-_A short description of today’s project._
+Followed along with the course and completed the Day 2 project.
 
 ## What I Learned
-- Point 1
-- Point 2
+- Repetition of basic concepts from Day 1
+- Practiced using [mention any modules/concepts used: e.g., input(), print(), f-strings]
 
 ## Hardest Part
-_What was most challenging today?_
+Nothing too difficult today â€” it was more about reviewing and reinforcing.
 
 ## Extra Challenges or Features
-_Optional: Did you add anything extra or plan something for later?_
+None added today â€” just followed along.
 
 ## Reflection
-_How did you feel about today’s session? What do you want to improve or revisit?_
+Didn't learn too much new, but still valuable to stay consistent and build the daily habit.
